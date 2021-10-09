@@ -2,7 +2,7 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to myblog",
-    "description": "Welcome to our new blog, myblog. We hope you enjoy \nreading what we have to say!",
+    "description": "Welcome to our new blog, myblog. We hope you enjoy \nreading what we have to say! This is awfully nice.",
     "author": [
       {
         "name": "Nora Jones",
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-10-09T16:38:10-04:00",
-    "input_file": {}
+    "last_modified": "2021-10-09T17:16:34-04:00",
+    "input_file": "welcome.knit.md"
   }
 ]

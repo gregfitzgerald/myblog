@@ -2,9 +2,7 @@
 title: "Welcome to myblog"
 description: |
   Welcome to our new blog, myblog. We hope you enjoy 
-  reading what we have to say!
-  
-  This is awfully nice.
+  reading what we have to say! This is awfully nice.
 author:
   - name: Nora Jones 
     url: https://example.com/norajones
