@@ -1,14 +1,14 @@
 {
-    "id": "CAD1C427",
-    "path": "~/myblog/_posts/welcome/welcome.Rmd",
-    "project_path": "_posts/welcome/welcome.Rmd",
+    "id": "6CB53A35",
+    "path": "~/myblog/about.Rmd",
+    "project_path": "about.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1863708126",
     "contents": "",
     "dirty": false,
-    "created": 1633811893643.0,
+    "created": 1633811894182.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source"

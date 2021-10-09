@@ -1,17 +1,19 @@
 {
-    "id": "6CB53A35",
-    "path": "~/myblog/about.Rmd",
-    "project_path": "about.Rmd",
-    "type": "r_markdown",
-    "hash": "0",
+    "id": "C9A58895",
+    "path": "~/myblog/_site.yml",
+    "project_path": "_site.yml",
+    "type": "yaml",
+    "hash": "4141782118",
     "contents": "",
     "dirty": false,
-    "created": 1633811894182.0,
+    "created": 1633811894368.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "3,8",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1633811888,
